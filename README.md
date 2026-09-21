@@ -1,4 +1,4 @@
-# Dual-Sensor Fault Diagnosis with Sample-Adaptive Multi-Scale Encoding and NA-ADRF
+# Multi-Level Normalized Agreement–Discrepancy Residual Fusion for Robust Multi-Sensor Fault Diagnosis of Rotating Machinery under Inconsistent Sensor Quality
 
 This repository contains the clean implementation of the main method described in our manuscript. It accepts two synchronized one-dimensional sensor signals and performs end-to-end fault classification using:
 
